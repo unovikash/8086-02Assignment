@@ -8,7 +8,7 @@ The repository serves as the assignment for the class ISQA 8086.02 - Data to Dec
 
 
 ### Team
-1. Kumar Vikash (vikashkumar@unomaha.edu)
+1. Kumar Vikash
 
 
 ### License
