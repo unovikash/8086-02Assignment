@@ -4,7 +4,7 @@ The repository serves as the assignment for the class ISQA 8086.02 - Data to Dec
 
 ### List of Files
 1. Background Research
-2. Data Entry
+2. Data Entry Analysis
 
 
 ### Team
