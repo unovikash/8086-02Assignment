@@ -1,6 +1,6 @@
 # Data Entry Analysis
 
-#### Issues
+### Issues
 
 1. No Timestamp on the data
 
@@ -58,9 +58,9 @@
     - <u>Issue-</u> The terminologies must be capture in the metadata.
     - <u>Fix-</u> Add the terminologies to the metadata
 
-#### Suggested Model to Capture these data
+### Suggested Model to Capture these data
 
-##### Model 1: To store Plankton's data
+#### Model 1: To store Plankton's data
 
 | Column Name             | Description                            |
 | ----------------------- | -------------------------------------- |
@@ -75,7 +75,7 @@
 | Chl A (unit)            | Chlorine measurement                   |
 | Temp (unit)             | Temperature with Unit                  |
 
-##### Model 2: To Store Station Data
+#### Model 2: To Store Station Data
 
 | Column Name          | Description                                         |
 | -------------------- | --------------------------------------------------- |
@@ -83,7 +83,7 @@
 | Maximum Depth (unit) | Maximum depth of the pond                           |
 | Minimum Depth (unit) | Minimum depth of the pond                           |
 
-##### Model 3: To store Metadata
+#### Model 3: To store Metadata
 
 | Column Name                  | Description                                                |
 | ---------------------------- | ---------------------------------------------------------- |
